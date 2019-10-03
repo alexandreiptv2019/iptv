@@ -1,0 +1,1185 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="-" tvg-name="A Fazenda 11 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/http://iptv01.com/live_imgs/AFazenda.png" group-title="Canais Abertos",A Fazenda 11 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/2.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Band SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569044011_91b6cdabd3cad4ae.png" group-title="Canais Abertos",Band SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/17.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Band HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569044020_b368667a9728c1bb.png" group-title="Canais Abertos",Band HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/18.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Band FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569044041_304b07cddda45f01.png" group-title="Canais Abertos",Band FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/19.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="A&E SD" tvg-logo="-" group-title="Canais de Séries",A&E SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/3.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="A&E HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043692_006d7d7bc685231b.png" group-title="Canais de Séries",A&E HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/4.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="A&E FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043706_1036ed7cb4918632.png" group-title="Canais de Séries",A&E FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/5.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="AMC SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043749_9215f3abcbe685eb.png" group-title="Canais de Séries",AMC SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/6.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="AMC HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043764_8a7b25a4ac01e08f.png" group-title="Canais de Séries",AMC HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/7.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="AXN SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043982_fcc0fdf1ce6dc1e7.png" group-title="Canais de Séries",AXN SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/14.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="AXN HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043992_08528c8a2338e8dd.png" group-title="Canais de Séries",AXN HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/15.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="AXN FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569044001_410db602f3859b59.png" group-title="Canais de Séries",AXN FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/16.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Animal Planet SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043821_c47a5d6e10a1006f.webp" group-title="Documentários",Animal Planet SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/8.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Animal Planet HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043858_e40cad65e0cd0470.webp" group-title="Documentários",Animal Planet HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/9.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Animal Planet FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043868_4d68c61fb0e5fca9.webp" group-title="Documentários",Animal Planet FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/10.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Band News SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089524_652eeab508090c47.png" group-title="Canais Abertos",Band News SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/22.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="BIS SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089555_0549b652c178ff02.png" group-title="Entretenimento",BIS SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/23.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="BIS HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089567_84a51869feba19d8.png" group-title="Entretenimento",BIS HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/24.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="BIS FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089583_33a0bad95ef876ba.png" group-title="Entretenimento",BIS FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/25.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="BandSports SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089597_cdd59d1c8df9b92e.png" group-title="Esportes",BandSports SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/26.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="BandSports HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089608_7510691454e36482.png" group-title="Esportes",BandSports HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/27.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="BandSports FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089625_660088627bed5ce1.png" group-title="Esportes",BandSports FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/28.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Band News HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089636_60937e20ade73ac0.png" group-title="Canais Abertos",Band News HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/29.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Band News FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089647_f3e989f303c2dbd0.png" group-title="Canais Abertos",Band News FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/30.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Boa Vontade TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089768_4c733573d9c61bbc.jpeg" group-title="Canais Abertos",Boa Vontade TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/31.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Boomerang SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089837_8534e451f0eea7f5.png" group-title="Infantis",Boomerang SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/32.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Boomerang HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089969_e3550f87404544ea.png" group-title="Infantis",Boomerang HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/33.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Boomerang FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569089982_9ecbbfc59956b830.png" group-title="Infantis",Boomerang FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/34.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cancao Nova SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090021_9c8055f8f3ae1f22.png" group-title="Canais Abertos",Cancao Nova SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/35.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cancao Nova HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090029_5ac2ab47728dfed2.png" group-title="Canais Abertos",Cancao Nova HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/36.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090098_f5b4bf8c13be9592.png" group-title="Infantis",Cartoon Network SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/37.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090111_28402138f2f94ac6.png" group-title="Infantis",Cartoon Network HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/38.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090120_f2a8ea5bf0148a84.png" group-title="Infantis",Cartoon Network FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/39.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="CNT SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090202_ed7bba95c153187c.png" group-title="Canais Abertos",CNT SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/40.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="CNN Espanhol SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090353_eb3844d0ed275fab.webp" group-title="Mundo",CNN Espanhol SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/41.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="CNN Internacional SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090404_becf7ec7a1caebba.webp" group-title="Mundo",CNN Internacional SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/42.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Canal Brasil SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090436_d90b7f7a560bd92b.png" group-title="Canais Abertos",Canal Brasil SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/43.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Canal Rural SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090463_d6987624ebea3cdf.png" group-title="Canais Abertos",Canal Rural SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/44.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Canal Brasil HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090472_f6f6e335b9cb1f58.png" group-title="Canais Abertos",Canal Brasil HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/45.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cinemax SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090542_ca7a4a42b0e20aa7.png" group-title="Canais de Filmes",Cinemax SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/46.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cinemax HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090551_b6e56dd0b638c704.png" group-title="Canais de Filmes",Cinemax HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/47.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cinemax FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090558_9f4fc2b711778a55.png" group-title="Canais de Filmes",Cinemax FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/48.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Combate SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090644_f113249a529fdd57.png" group-title="Esportes",Combate SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/49.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Combate HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090653_f8aeb8e0ae970214.png" group-title="Esportes",Combate HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/50.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Combate FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090661_5518b72b114556e3.png" group-title="Esportes",Combate FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/51.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Comedy Central SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090795_7ba495c842b6da28.png" group-title="Canais de Séries",Comedy Central SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/52.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Comedy Central HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090805_5c6e0fb0b9f6c016.png" group-title="Canais de Séries",Comedy Central HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/53.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Comedy Central FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090816_a7c1c24e90d8d9c8.png" group-title="Canais de Séries",Comedy Central FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/54.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Facebook Watch" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090870_3fd4a9e3e4b06fec.png" group-title="Esportes",Facebook Watch
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/55.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Curta SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090910_60f64151cf05cc65.png" group-title="Variedades",Curta SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/56.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Dazn SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090922_26b40ff10bbfce42.png" group-title="Esportes",Dazn SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/57.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Dazn HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090930_b02ebb2c8bb3d0df.png" group-title="Esportes",Dazn HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/58.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Dazn FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090939_69895c7a4248c0dd.png" group-title="Esportes",Dazn FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/59.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Dazn 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569090949_901ac52b1dfea16c.png" group-title="Esportes",Dazn 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/60.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Channel SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091018_9ad9f75c59295b1f.png" group-title="Documentários",Discovery Channel SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/61.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Channel HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091202_caac465fd909acf2.png" group-title="Documentários",Discovery Channel HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/62.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Channel FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091533_ea507306ebb08d9b.png" group-title="Documentários",Discovery Channel FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/63.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Hgtv SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091544_b7396d53589b4e42.png" group-title="Variedades",Hgtv SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/64.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Hgtv HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091371_20ddf5f3b47a9a86.png" group-title="Variedades",Hgtv HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/65.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Hgtv FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091380_b6f28c17756b0efd.png" group-title="Variedades",Hgtv FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/66.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Kids SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091418_c7305aeb92a04135.png" group-title="Infantis",Discovery Kids SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/67.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Kids HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091430_7c33924b6826ee01.png" group-title="Infantis",Discovery Kids HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/68.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Kids FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091442_d2ec8cd55dbb26f3.png" group-title="Infantis",Discovery Kids FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/69.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Home & Health SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091486_226ffa6a9d667558.png" group-title="Variedades",Discovery Home & Health SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/70.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Home & Health HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569091499_a53fa9bdd81d28a1.png" group-title="Variedades",Discovery Home & Health HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/71.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Home & Health FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120654_0008665fda0b265a.png" group-title="Variedades",Discovery Home & Health FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/72.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Science SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120697_d507c144b0e8aed5.png" group-title="Documentários",Discovery Science SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/73.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Science HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120707_830fe2b53b1ce237.png" group-title="Documentários",Discovery Science HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/74.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Science FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120718_319d4d7f3ca9cdf1.png" group-title="Documentários",Discovery Science FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/75.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Turbo SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120767_10ae830a88e80978.webp" group-title="Documentários",Discovery Turbo SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/76.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Turbo HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120780_b6a2bf2a65fbf070.webp" group-title="Documentários",Discovery Turbo HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/77.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Turbo FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120792_eddc87bea6e6f7e9.webp" group-title="Documentários",Discovery Turbo FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/78.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Theater SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120826_c7f68778095f882a.webp" group-title="Documentários",Discovery Theater SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/79.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Theater HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120835_b1851af1da847b64.webp" group-title="Documentários",Discovery Theater HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/80.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery Theater FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120843_75edf18618abe780.webp" group-title="Documentários",Discovery Theater FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/81.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery World SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120919_a4111b5a7e74ff39.png" group-title="Documentários",Discovery World SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/82.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery World HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120927_05e4ef0787084237.png" group-title="Documentários",Discovery World HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/83.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Discovery World FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120934_1ea37b5ecc06a678.png" group-title="Documentários",Discovery World FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/84.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Channel SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120976_284c872eaa7ed9c4.webp" group-title="Infantis",Disney Channel SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/85.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Channel HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120985_820b667bd34d569b.webp" group-title="Infantis",Disney Channel HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/86.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Channel FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569120993_adfef7a7131f015b.webp" group-title="Infantis",Disney Channel FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/87.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Junior SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121021_523e5b15ad1df575.png" group-title="Infantis",Disney Junior SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/88.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Junior HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121037_8ef1d982800d6c69.png" group-title="Infantis",Disney Junior HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/89.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Junior FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121049_159b40c8ce268de3.png" group-title="Infantis",Disney Junior FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/90.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney XD SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121075_b6997c1de225a227.png" group-title="Infantis",Disney XD SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/91.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney XD HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121300_081a68d1121c64de.png" group-title="Infantis",Disney XD HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/92.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="DW (Deutsch+) SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121345_5cf5e70312aab239.png" group-title="Mundo",DW (Deutsch+) SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/93.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="E! SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121438_1af1e16a7877a20c.png" group-title="Variedades",E! SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/94.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="E! HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121446_89fcf8783973a476.png" group-title="Variedades",E! HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/95.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="E! FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121457_f9b437c7fad260b5.png" group-title="Variedades",E! FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/96.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="EI Plus SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121501_168f6f508b8ed1a2.png" group-title="Esportes",EI Plus SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/97.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="EI Plus 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121534_262e3dbee9b53ce0.png" group-title="Esportes",EI Plus 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/98.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Ei Plus HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121546_89ff82d7cf6de718.png" group-title="Esportes",Ei Plus HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/99.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Ei Plus 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121555_0a8bf7147cd99b30.png" group-title="Esportes",Ei Plus 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/100.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Ei Plus 3 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569121565_d2a75b4685f0d566.png" group-title="Esportes",Ei Plus 3 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/101.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Ei Plus 4 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128617_5b80fc8f3eb8a5f5.png" group-title="Esportes",Ei Plus 4 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/102.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN Brasil SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128632_38b2e56f8705be1e.png" group-title="Esportes",ESPN Brasil SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/103.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN Brasil HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128641_2ed7a6b00a27f989.png" group-title="Esportes",ESPN Brasil HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/104.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN Brasil FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128651_8a5b4cfb474f7f1e.png" group-title="Esportes",ESPN Brasil FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/105.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128679_ee85957457045220.png" group-title="Esportes",ESPN SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/106.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128690_999cf5e40caac836.png" group-title="Esportes",ESPN HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/107.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128700_7812e8febfd3d103.png" group-title="Esportes",ESPN FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/108.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128709_91a00e9c0c9c5645.webp" group-title="Esportes",ESPN 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/109.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128719_7625db1d4b690e1a.webp" group-title="Esportes",ESPN 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/110.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN 2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128730_3aca1e2020d16c4c.webp" group-title="Esportes",ESPN 2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/111.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN Extra" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128851_f19a81225f8949c6.png" group-title="Esportes",ESPN Extra
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/112.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN Extra HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128878_5c1264c9bb46a9d4.png" group-title="Esportes",ESPN Extra HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/113.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="ESPN Extra FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128886_c02d691a2767f209.png" group-title="Esportes",ESPN Extra FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/114.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="FX SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128929_e654315b1a4604e2.png" group-title="Canais de Séries",FX SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/115.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="FX HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128939_facbae2de3307a34.png" group-title="Canais de Séries",FX HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/116.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="FX FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128948_cba6b917cfac791e.png" group-title="Canais de Séries",FX FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/117.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="FishTV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569128987_5389e781017a651e.png" group-title="Variedades",FishTV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/118.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Film&Arts HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129088_4222f397915f9dde.png" group-title="Variedades",Film&Arts HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/119.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Film&Arts FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129098_5b7bebfcc9e9c315.png" group-title="Variedades",Film&Arts FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/120.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Premium 1 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129144_39b596c682216851.png" group-title="Canais de Séries",Fox Premium 1 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/121.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Premium 1 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129202_223f952a02713fc2.png" group-title="Canais de Séries",Fox Premium 1 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/122.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Premium 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129223_a50fc3bd364b9916.png" group-title="Canais de Séries",Fox Premium 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/123.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Premium 2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129229_adc4936fe7b078eb.png" group-title="Canais de Séries",Fox Premium 2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/124.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129248_4c2db3d26e0c9fa9.png" group-title="Esportes",Fox Sports SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/125.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129256_39514af75395bc78.png" group-title="Esportes",Fox Sports HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/126.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129264_d8497e3a44d45772.png" group-title="Esportes",Fox Sports FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/127.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129290_101ece17f0874fa1.png" group-title="Esportes",Fox Sports 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/128.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129297_9805428d27eadba0.png" group-title="Esportes",Fox Sports 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/129.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129304_be998f0d6221fa0c.png" group-title="Esportes",Fox Sports 2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/130.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Life SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129332_a4a6cc9c309956f0.png" group-title="Variedades",Fox Life SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/131.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Life HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129393_cf54c4d2c19ecb64.png" group-title="Variedades",Fox Life HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/132.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox Life FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129386_1aa8e93f2b59ba8c.png" group-title="Variedades",Fox Life FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/133.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129413_e43a9881b40a49f3.png" group-title="Canais de Séries",Fox SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/134.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129423_0d613c6cd2515cf7.png" group-title="Canais de Séries",Fox HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/135.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Fox FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129430_7166a77e31b75ab4.png" group-title="Canais de Séries",Fox FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/136.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Food Network SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129463_ca3ddd9a88c119c5.webp" group-title="Variedades",Food Network SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/137.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Food Network HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129471_4f8b102da7eeaf10.webp" group-title="Variedades",Food Network HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/138.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Food Network FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129477_f612a5b1ceacd076.webp" group-title="Variedades",Food Network FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/139.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Futura SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129518_2a9f15416a618042.png" group-title="Canais Abertos",Futura SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/140.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="GNT SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129552_01191597fc5f4edd.png" group-title="Variedades",GNT SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/141.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="GNT HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129615_3a2690eacc1c94a8.png" group-title="Variedades",GNT HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/142.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="GNT FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129636_81959a17fc51cb02.png" group-title="Variedades",GNT FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/143.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloob SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129644_a2c89a56fe377f57.png" group-title="Infantis",Gloob SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/144.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloob HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129651_e9a2419b8d38fb7d.png" group-title="Infantis",Gloob HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/145.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloob FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129659_9e9d22a9c95f9fac.png" group-title="Infantis",Gloob FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/146.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloobinho SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129687_925614da4a16e550.png" group-title="Infantis",Gloobinho SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/147.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloobinho HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129694_dafa37ad16ee4488.png" group-title="Infantis",Gloobinho HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/148.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloobinho FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129701_01b164be9ecf4d86.png" group-title="Infantis",Gloobinho FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/149.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo News SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129745_aa52c3d55ce49b23.png" group-title="Canais Abertos",Globo News SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/150.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo News HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129757_0fb63646d18aec06.png" group-title="Canais Abertos",Globo News HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/151.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo News FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129847_64e33641e3ebdaa7.png" group-title="Canais Abertos",Globo News FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/152.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Brasilia SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Brasilia SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/153.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Brasilia HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129866_54a2949c2a79a1a4.png" group-title="Canais Abertos",Globo Brasilia HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/154.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Brasilia FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129873_4abd3e84f8463b98.png" group-title="Canais Abertos",Globo Brasilia FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/155.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129880_9e5b0359e559a970.png" group-title="Canais Abertos",Globo EPTV Campinas SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/156.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129888_5314122b335cd5cb.png" group-title="Canais Abertos",Globo EPTV Campinas HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/157.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Campinas FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129898_9ce4740a1a0d3953.png" group-title="Canais Abertos",Globo EPTV Campinas FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/158.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Central SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129906_9de53598c3c5ad5f.png" group-title="Canais Abertos",Globo EPTV Central SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/159.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129914_e68d316b5d3ff443.png" group-title="Canais Abertos",Globo EPTV Ribeirao Preto SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/160.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129921_570d5e216dbb1e67.png" group-title="Canais Abertos",Globo EPTV Ribeirao Preto HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/161.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo EPTV Ribeirao Preto FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129984_3e22e703609247a8.png" group-title="Canais Abertos",Globo EPTV Ribeirao Preto FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/162.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Eptv Sul Minas SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130013_7665c2f907ab43d5.png" group-title="Canais Abertos",Globo Eptv Sul Minas SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/163.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Minas SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129992_bc7ee07d0178e7d2.png" group-title="Canais Abertos",Globo Minas SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/164.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Minas HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130020_4eba8716381f7615.png" group-title="Canais Abertos",Globo Minas HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/165.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Minas FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130003_d7a4fa6b4bf6a84e.png" group-title="Canais Abertos",Globo Minas FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/166.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Nordeste SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130027_b30f030c2765f44f.png" group-title="Canais Abertos",Globo Nordeste SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/167.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Nordeste HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130034_49b407a1fbde81b2.png" group-title="Canais Abertos",Globo Nordeste HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/168.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Nordeste FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130041_dc606c465107bd63.png" group-title="Canais Abertos",Globo Nordeste FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/169.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RJ SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130048_4359678fc063a795.png" group-title="Canais Abertos",Globo RJ SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/170.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RJ HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130056_215a37fd9e0cab5e.png" group-title="Canais Abertos",Globo RJ HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/171.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RJ FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130174_ee59a3aa0ae7e4b9.png" group-title="Canais Abertos",Globo RJ FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/172.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo SP SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130197_5614723d9d24ec9e.png" group-title="Canais Abertos",Globo SP SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/173.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo SP HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130186_0b6e9f551a16a733.png" group-title="Canais Abertos",Globo SP HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/174.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo SP FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130224_048474d49d10eb1e.png" group-title="Canais Abertos",Globo SP FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/175.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RBS TV Poa SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130204_6a029c38a4e1c468.png" group-title="Canais Abertos",Globo RBS TV Poa SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/176.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RBS TV Poa HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130210_40e7ac7b551b0f3a.png" group-title="Canais Abertos",Globo RBS TV Poa HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/177.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RBS TV Poa FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130217_db1336a0769636bd.png" group-title="Canais Abertos",Globo RBS TV Poa FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/178.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Blumenau SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130244_b544e6e9f47f3775.png" group-title="Canais Abertos",Globo NSC Blumenau SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/179.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Blumenau HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130231_a3e7d83cfeae0b83.png" group-title="Canais Abertos",Globo NSC Blumenau HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/180.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Blumenau FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Blumenau FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/181.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC TV Chapeco SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/182.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Chapeco HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Chapeco HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/183.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Chapeco FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Chapeco FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/184.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Criciuma SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Criciuma SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/185.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Criciuma HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Criciuma HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/186.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Criciuma FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Criciuma FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/187.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Joinville SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Joinville SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/188.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Joinville HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Joinville HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/189.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Joinville FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Joinville FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/190.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Florianopolis SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Florianopolis SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/191.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Floripa HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Floripa HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/192.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo NSC Floripa FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130237_deaf9ef9cdaa648d.png" group-title="Canais Abertos",Globo NSC Floripa FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/193.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130585_e164d8c14832f258.png" group-title="Canais Abertos",Globo RPC Curitiba SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/194.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130585_e164d8c14832f258.png" group-title="Canais Abertos",Globo RPC Curitiba HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/195.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130585_e164d8c14832f258.png" group-title="Canais Abertos",Globo RPC Curitiba FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/196.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RPC Maringa SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130585_e164d8c14832f258.png" group-title="Canais Abertos",Globo RPC Maringa SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/197.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RPC Maringa HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130585_e164d8c14832f258.png" group-title="Canais Abertos",Globo RPC Maringa HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/198.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo RPC Maringa FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569130585_e164d8c14832f258.png" group-title="Canais Abertos",Globo RPC Maringa FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/199.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Rede Gazeta ES SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Rede Gazeta ES SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/200.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Rede Gazeta ES HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Rede Gazeta ES HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/201.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Rede Gazeta ES FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Rede Gazeta ES FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/202.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Clube SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Clube SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/203.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Gazeta Alagoas SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Gazeta Alagoas SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/204.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Gazeta Alagoas HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Gazeta Alagoas HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/205.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Gazeta Alagoas FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Gazeta Alagoas FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/206.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Sergipe SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Sergipe SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/207.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Sergipe HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Sergipe HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/208.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Sergipe FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Sergipe FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/209.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Serra Mar SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Serra Mar SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/210.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Cabugi SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Cabugi SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/211.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Cabugi HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Cabugi HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/212.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Cabugi FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Cabugi FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/213.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Grande Minas SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Grande Minas SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/214.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Dos Vales SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Dos Vales SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/215.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo InterTV Alto Litoral SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo InterTV Alto Litoral SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/216.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Anhanguera Go SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Anhanguera Go SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/217.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Anhanguera GO HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Anhanguera GO HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/218.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Anhanguera GO FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Anhanguera GO FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/219.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Fronteira SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Fronteira SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/220.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Asa Branca SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Asa Branca SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/221.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Centro America Cuiaba SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Centro America Cuiaba SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/222.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Centro America Cuiaba FHD Alt" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Centro America Cuiaba FHD Alt
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/223.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Integracao Uberlandia SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Integracao Uberlandia SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/224.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Mirante Cocais SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Mirante Cocais SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/225.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Morena SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Morena SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/226.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Mirante Sao Luis SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/227.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Morena FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Morena FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/228.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Mirante Sao Luis FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/229.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Rio Sul SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Rio Sul SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/230.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Santa Cruz SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Santa Cruz SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/231.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Sudoeste SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Sudoeste SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/232.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tv Bahia SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tv Bahia SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/233.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Bahia HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Bahia HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/234.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Bahia FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Bahia FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/235.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV TEM Itapetininga SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/236.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Vanguarda Taubate SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Vanguarda Taubate SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/237.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Tem Bauru SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Tem Bauru SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/238.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Tem Sorocaba SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/239.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Liberal Belem SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/240.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Liberal Belem FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/241.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Vanguarda SJ dos Campo" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Vanguarda SJ dos Campo
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/242.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Tem SJRP SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Tem SJRP SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/243.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Tem SJRP HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Tem SJRP HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/244.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Tem SJRP FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Tem SJRP FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/245.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Verdes Mares SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Verdes Mares SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/246.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Verdes Mares HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Verdes Mares HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/247.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Verdes Mares FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Verdes Mares FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/248.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Rede Amazonica HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Rede Amazonica HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/249.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Rede Amazonica Manaus SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Rede Amazonica Manaus SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/250.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo TV Tribuna Santos SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/251.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tribuna Santos HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tribuna Santos HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/252.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Globo Tribuna Santos FHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569129858_dde76c8e63ce431e.png" group-title="Canais Abertos",Globo Tribuna Santos FHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/253.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="H2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131067_49b26c00ceadc51b.png" group-title="Documentários",H2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/254.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="H2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131067_49b26c00ceadc51b.png" group-title="Documentários",H2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/255.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="H2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131067_49b26c00ceadc51b.png" group-title="Documentários",H2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/256.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131142_7f0dbf48af8bc390.png" group-title="Canais HBO",HBO SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/257.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131142_7f0dbf48af8bc390.png" group-title="Canais HBO",HBO HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/258.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131142_7f0dbf48af8bc390.png" group-title="Canais HBO",HBO FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/259.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131166_a37e3e47ad660780.png" group-title="Canais HBO",HBO 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/260.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131166_a37e3e47ad660780.png" group-title="Canais HBO",HBO 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/261.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO 2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131166_a37e3e47ad660780.png" group-title="Canais HBO",HBO 2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/262.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Family SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131202_43673f75e0feab2c.png" group-title="Canais HBO",HBO Family SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/263.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Family HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131202_43673f75e0feab2c.png" group-title="Canais HBO",HBO Family HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/264.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Family FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131202_43673f75e0feab2c.png" group-title="Canais HBO",HBO Family FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/265.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Plus SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131222_1fd338c79f6cc62a.png" group-title="Canais HBO",HBO Plus SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/266.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Plus HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131222_1fd338c79f6cc62a.png" group-title="Canais HBO",HBO Plus HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/267.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Plus FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131222_1fd338c79f6cc62a.png" group-title="Canais HBO",HBO Plus FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/268.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131248_0b390407fce46b02.png" group-title="Canais HBO",HBO Signature SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/269.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131248_0b390407fce46b02.png" group-title="Canais HBO",HBO Signature HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/270.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131248_0b390407fce46b02.png" group-title="Canais HBO",HBO Signature FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/271.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Ideal TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131290_8106016f6823e6bd.png" group-title="Canais Abertos",Ideal TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/272.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Investigacao Discovery SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131343_e01cd66b4ef75230.png" group-title="Canais de Séries",Investigacao Discovery SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/273.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Investigacao Discovery HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131343_e01cd66b4ef75230.png" group-title="Canais de Séries",Investigacao Discovery HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/274.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Investigacao Discovery FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131343_e01cd66b4ef75230.png" group-title="Canais de Séries",Investigacao Discovery FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/275.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Lifetime SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131382_2ab682c73e55f378.png" group-title="Canais de Séries",Lifetime SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/276.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Lifetime HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131382_2ab682c73e55f378.png" group-title="Canais de Séries",Lifetime HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/277.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Lifetime FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131382_2ab682c73e55f378.png" group-title="Canais de Séries",Lifetime FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/278.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="L!ke HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131482_d9741f49087d3149.webp" group-title="Canais de Filmes",L!ke HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/279.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="L!ke FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131482_d9741f49087d3149.webp" group-title="Canais de Filmes",L!ke FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/280.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Master TV" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569131557_5a444b1342b80bd5.png" group-title="Canais Abertos",Master TV
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/281.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Mais Globosat SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133752_6fcd2f69abb1e87b.png" group-title="Variedades",Mais Globosat SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/282.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Mais Globosat HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133752_6fcd2f69abb1e87b.png" group-title="Variedades",Mais Globosat HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/283.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133791_aa3c7325398ea9e5.png" group-title="Canais HBO",Max SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/284.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="MAX HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133791_aa3c7325398ea9e5.png" group-title="Canais HBO",MAX HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/285.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="MAX FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133791_aa3c7325398ea9e5.png" group-title="Canais HBO",MAX FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/286.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max UP SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133823_d06b387c8f9597ae.png" group-title="Canais HBO",Max UP SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/287.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max UP HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133823_d06b387c8f9597ae.png" group-title="Canais HBO",Max UP HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/288.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max UP FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133823_d06b387c8f9597ae.png" group-title="Canais HBO",Max UP FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/289.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max Prime SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133853_2921cd5d889d8231.webp" group-title="Canais HBO",Max Prime SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/290.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max Prime HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133853_2921cd5d889d8231.webp" group-title="Canais HBO",Max Prime HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/291.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Max Prime FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133853_2921cd5d889d8231.webp" group-title="Canais HBO",Max Prime FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/292.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Music Box Brasil SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133886_6d428020c70540b3.png" group-title="Entretenimento",Music Box Brasil SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/293.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Megapix SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133918_a3b2f3c153ab4382.png" group-title="Canais de Filmes",Megapix SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/294.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Megapix HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133918_a3b2f3c153ab4382.png" group-title="Canais de Filmes",Megapix HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/295.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Megapix FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133918_a3b2f3c153ab4382.png" group-title="Canais de Filmes",Megapix FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/296.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Multishow SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133959_4d4b7d4e63630e22.png" group-title="Entretenimento",Multishow SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/297.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Multishow HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133959_4d4b7d4e63630e22.png" group-title="Entretenimento",Multishow HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/298.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Multishow FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569133959_4d4b7d4e63630e22.png" group-title="Entretenimento",Multishow FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/299.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="MTV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134005_7a6566f2c3264b74.png" group-title="Entretenimento",MTV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/300.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="MTV HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134005_7a6566f2c3264b74.png" group-title="Entretenimento",MTV HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/301.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="MTV FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134005_7a6566f2c3264b74.png" group-title="Entretenimento",MTV FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/302.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="NatGeo Kids SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134135_57bf74c3cc8eb44b.svg+xml" group-title="Infantis",NatGeo Kids SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/303.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="NatGeo Kids HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134135_57bf74c3cc8eb44b.svg+xml" group-title="Infantis",NatGeo Kids HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/304.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="NatGeo Kids FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134135_57bf74c3cc8eb44b.svg+xml" group-title="Infantis",NatGeo Kids FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/305.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="NatGeo Wild SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134180_5ef4bd61b5ed3d0b.png" group-title="Documentários",NatGeo Wild SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/306.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="NatGeo Wild HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134180_5ef4bd61b5ed3d0b.png" group-title="Documentários",NatGeo Wild HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/307.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Natgeo Wild FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134180_5ef4bd61b5ed3d0b.png" group-title="Documentários",Natgeo Wild FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/308.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick JR SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134215_2c9d0344a98a89da.png" group-title="Infantis",Nick JR SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/309.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick JR HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134215_2c9d0344a98a89da.png" group-title="Infantis",Nick JR HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/310.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick JR FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134215_2c9d0344a98a89da.png" group-title="Infantis",Nick JR FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/311.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nickelodeon SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134250_c03625eed28f8a2a.png" group-title="Infantis",Nickelodeon SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/312.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134250_c03625eed28f8a2a.png" group-title="Infantis",Nick HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/313.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134250_c03625eed28f8a2a.png" group-title="Infantis",Nick FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/314.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Natgeo SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134293_a95634037a8abfad.svg+xml" group-title="Documentários",Natgeo SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/315.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Natgeo HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134293_a95634037a8abfad.svg+xml" group-title="Documentários",Natgeo HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/316.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Natgeo FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134293_a95634037a8abfad.svg+xml" group-title="Documentários",Natgeo FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/317.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="NHK SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134343_982ffca29d7771e3.webp" group-title="Mundo",NHK SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/318.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Brasil 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134371_fcb5c3a5631874a4.png" group-title="Canais Abertos",TV Brasil 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/319.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Novo Tempo SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134391_b033445b96431d23.png" group-title="Canais Abertos",Novo Tempo SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/320.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="OFF SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134422_ea431f4ac0ab2ba4.png" group-title="Variedades",OFF SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/321.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="OFF HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134422_ea431f4ac0ab2ba4.png" group-title="Variedades",OFF HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/322.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="OFF FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134422_ea431f4ac0ab2ba4.png" group-title="Variedades",OFF FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/323.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Paramount SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134457_de6fd4efb41eecbe.png" group-title="Canais de Filmes",Paramount SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/324.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Paramount Channel HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134457_de6fd4efb41eecbe.png" group-title="Canais de Filmes",Paramount Channel HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/325.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Paramount Channel FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134457_de6fd4efb41eecbe.png" group-title="Canais de Filmes",Paramount Channel FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/326.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Play TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134486_8f00a23a28ff4ca4.png" group-title="Entretenimento",Play TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/327.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PlayKids SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134554_2ec3c72306267d93.png" group-title="Infantis",PlayKids SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/328.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PlayKids HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134554_2ec3c72306267d93.png" group-title="Infantis",PlayKids HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/329.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Polishop TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569134584_78cd71fb7a2983ea.webp" group-title="Variedades",Polishop TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/330.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136042_c7e1921ca075cf86.png" group-title="Esportes",Premiere 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/331.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136042_c7e1921ca075cf86.png" group-title="Esportes",Premiere 2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/332.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 3 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136135_75d33daaf9d47b75.png" group-title="Esportes",Premiere 3 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/333.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 3 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136135_75d33daaf9d47b75.png" group-title="Esportes",Premiere 3 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/334.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 4 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136147_44cdddf08c7e0044.png" group-title="Esportes",Premiere 4 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/335.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 4 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136147_44cdddf08c7e0044.png" group-title="Esportes",Premiere 4 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/336.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 5 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136155_63b67764b8599055.png" group-title="Esportes",Premiere 5 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/337.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 5 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136155_63b67764b8599055.png" group-title="Esportes",Premiere 5 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/338.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 6 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136166_041c9ba4bc76bf37.png" group-title="Esportes",Premiere 6 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/339.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 6 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136166_041c9ba4bc76bf37.png" group-title="Esportes",Premiere 6 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/340.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 7 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136867_f196c94f66add5a6.png" group-title="Esportes",Premiere 7 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/341.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 7 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136867_f196c94f66add5a6.png" group-title="Esportes",Premiere 7 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/342.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere Clubes HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136881_a5e1cfef690a9ea8.png" group-title="Esportes",Premiere Clubes HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/343.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere Clubes FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136881_a5e1cfef690a9ea8.png" group-title="Esportes",Premiere Clubes FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/344.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere Clubes SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136881_a5e1cfef690a9ea8.png" group-title="Esportes",Premiere Clubes SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/345.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136042_c7e1921ca075cf86.png" group-title="Esportes",Premiere 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/346.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 3 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136135_75d33daaf9d47b75.png" group-title="Esportes",Premiere 3 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/347.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 4" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136147_44cdddf08c7e0044.png" group-title="Esportes",Premiere 4
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/348.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 5 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136155_63b67764b8599055.png" group-title="Esportes",Premiere 5 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/349.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 6 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136166_041c9ba4bc76bf37.png" group-title="Esportes",Premiere 6 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/350.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 7 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136867_f196c94f66add5a6.png" group-title="Esportes",Premiere 7 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/351.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 8 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136889_1d1807f2155eca9b.png" group-title="Esportes",Premiere 8 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/352.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Premiere 9 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136898_0d3d470fbc1dfa72.png" group-title="Esportes",Premiere 9 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/353.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Primebox Brasil SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136935_4f1b697111127fd8.png" group-title="Canais de Filmes",Primebox Brasil SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/354.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PPV 1 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569910096_ba435775bc97d89b.jpeg" group-title="Canais de Filmes",PPV 1 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/355.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PPV 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569910179_1e1d8b26211dde26.jpeg" group-title="Canais de Filmes",PPV 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/356.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PPV 3 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569910112_2f4446b0c2641740.jpeg" group-title="Canais de Filmes",PPV 3 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/357.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PPV 4 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569910123_d5ae5f95fabe6d9f.jpeg" group-title="Canais de Filmes",PPV 4 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/358.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="PPV 5 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569910139_3f1bae3562b75846.jpeg" group-title="Canais de Filmes",PPV 5 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/359.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="RAI SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569136973_5fb567b7dce70acb.webp" group-title="Mundo",RAI SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/360.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Real Madrid TV" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137015_d6189d5af8fbb039.png" group-title="Esportes",Real Madrid TV
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/361.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Rede Vida SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137130_94a28d777cd4ec45.png" group-title="Canais Abertos",Rede Vida SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/362.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Rede TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137156_1dccd31b2723b2f9.png" group-title="Canais Abertos",Rede TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/363.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Rede TV HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137156_1dccd31b2723b2f9.png" group-title="Canais Abertos",Rede TV HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/364.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Rede Brasil SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137183_fb540f2d917e1d58.png" group-title="Canais Abertos",Rede Brasil SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/365.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/366.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/367.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/368.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record BA SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record BA SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/369.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record BA HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record BA HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/370.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record Belem HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record Belem HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/371.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record DF SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record DF SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/372.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record DF HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record DF HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/373.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record GO HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record GO HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/374.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record MG SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record MG SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/375.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record MG HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record MG HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/376.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record RJ SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record RJ SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/377.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record RJ HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record RJ HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/378.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record RS SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record RS SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/379.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record RS HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137206_11a833e872e0f69c.png" group-title="Canais Abertos",Record RS HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/380.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record News SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137238_0879829e5b209190.png" group-title="Canais Abertos",Record News SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/381.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Record News HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137238_0879829e5b209190.png" group-title="Canais Abertos",Record News HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/382.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/383.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/384.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT ES HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT ES HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/385.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT TV Cidade Verde HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT TV Cidade Verde HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/386.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT TV Jornal HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT TV Jornal HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/387.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT Interior HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT Interior HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/388.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT PE TV Jornal SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT PE TV Jornal SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/389.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SBT PE HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137258_5cb78db7e7334440.png" group-title="Canais Abertos",SBT PE HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/390.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Sony SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137312_6de480757ac917d8.png" group-title="Canais de Séries",Sony SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/391.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Sony HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137312_6de480757ac917d8.png" group-title="Canais de Séries",Sony HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/392.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Sony FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137312_6de480757ac917d8.png" group-title="Canais de Séries",Sony FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/393.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Space SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137356_46fd04e0cd2c52ba.png" group-title="Canais de Filmes",Space SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/394.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Space HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137356_46fd04e0cd2c52ba.png" group-title="Canais de Filmes",Space HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/395.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Space FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137356_46fd04e0cd2c52ba.png" group-title="Canais de Filmes",Space FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/396.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137366_4e5e06543df4d378.png" group-title="Esportes",SporTV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/397.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137366_4e5e06543df4d378.png" group-title="Esportes",SporTV HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/398.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137366_4e5e06543df4d378.png" group-title="Esportes",SporTV FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/399.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV 2 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137376_b9b4fb379a94b577.png" group-title="Esportes",SporTV 2 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/400.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV 2 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137376_b9b4fb379a94b577.png" group-title="Esportes",SporTV 2 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/401.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV 2 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137376_b9b4fb379a94b577.png" group-title="Esportes",SporTV 2 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/402.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV 3 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137405_2a7b2c31b03e8154.png" group-title="Esportes",SporTV 3 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/403.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV 3 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137405_2a7b2c31b03e8154.png" group-title="Esportes",SporTV 3 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/404.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SporTV 3 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137405_2a7b2c31b03e8154.png" group-title="Esportes",SporTV 3 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/405.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Studio Universal SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137443_361a784d3dd78ca8.png" group-title="Canais de Filmes",Studio Universal SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/406.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Studio Universal HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137443_361a784d3dd78ca8.png" group-title="Canais de Filmes",Studio Universal HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/407.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Studio Universal FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137443_361a784d3dd78ca8.png" group-title="Canais de Filmes",Studio Universal FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/408.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SyFy SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137473_8b680e8871795624.png" group-title="Canais de Séries",SyFy SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/409.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SyFy HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137473_8b680e8871795624.png" group-title="Canais de Séries",SyFy HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/410.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SyFy FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137473_8b680e8871795624.png" group-title="Canais de Séries",SyFy FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/411.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="SIC Internacional SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137593_a4a1221bb59698dc.png" group-title="Mundo",SIC Internacional SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/412.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TBS SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137621_632051168c5e5872.webp" group-title="Canais de Séries",TBS SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/413.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TBS HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137621_632051168c5e5872.webp" group-title="Canais de Séries",TBS HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/414.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TBS FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137621_632051168c5e5872.webp" group-title="Canais de Séries",TBS FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/415.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TLC SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137645_ea47826de9a704c0.png" group-title="Variedades",TLC SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/416.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TLC HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137645_ea47826de9a704c0.png" group-title="Variedades",TLC HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/417.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Action SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137734_1de8ad3e7e1fefca.png" group-title="Canais Telecine",TC Action SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/418.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Action HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137734_1de8ad3e7e1fefca.png" group-title="Canais Telecine",TC Action HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/419.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Action FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137734_1de8ad3e7e1fefca.png" group-title="Canais Telecine",TC Action FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/420.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Cult SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137787_46fcae32e020150b.png" group-title="Canais Telecine",TC Cult SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/421.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Cult HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137787_46fcae32e020150b.png" group-title="Canais Telecine",TC Cult HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/422.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Cult FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137787_46fcae32e020150b.png" group-title="Canais Telecine",TC Cult FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/423.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Tc Fun SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137812_4076a34b1b7a14f5.png" group-title="Canais Telecine",Tc Fun SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/424.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Fun HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137812_4076a34b1b7a14f5.png" group-title="Canais Telecine",TC Fun HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/425.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Fun FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137812_4076a34b1b7a14f5.png" group-title="Canais Telecine",TC Fun FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/426.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Pipoca SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137839_91f8354b08f00212.png" group-title="Canais Telecine",TC Pipoca SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/427.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Pipoca HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137839_91f8354b08f00212.png" group-title="Canais Telecine",TC Pipoca HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/428.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Pipoca FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137839_91f8354b08f00212.png" group-title="Canais Telecine",TC Pipoca FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/429.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Premium SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137879_70e7330c5dd17cf7.png" group-title="Canais Telecine",TC Premium SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/430.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Premium HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137879_70e7330c5dd17cf7.png" group-title="Canais Telecine",TC Premium HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/431.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Premium FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137879_70e7330c5dd17cf7.png" group-title="Canais Telecine",TC Premium FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/432.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Touch SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137909_59e7c04e28927cc6.png" group-title="Canais Telecine",TC Touch SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/433.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Touch HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137909_59e7c04e28927cc6.png" group-title="Canais Telecine",TC Touch HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/434.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TC Touch FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137909_59e7c04e28927cc6.png" group-title="Canais Telecine",TC Touch FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/435.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TCM SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137956_3651a447fceec6e3.png" group-title="Canais de Filmes",TCM SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/436.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TCM HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137956_3651a447fceec6e3.png" group-title="Canais de Filmes",TCM HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/437.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TCM FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137956_3651a447fceec6e3.png" group-title="Canais de Filmes",TCM FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/438.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TNT SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137996_cac153c3100eb085.png" group-title="Canais de Filmes",TNT SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/439.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TNT HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137996_cac153c3100eb085.png" group-title="Canais de Filmes",TNT HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/440.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TNT FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569137996_cac153c3100eb085.png" group-title="Canais de Filmes",TNT FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/441.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TNT Series SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138084_361d0c2ff21e5ad0.png" group-title="Canais de Séries",TNT Series SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/442.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TNT Series HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138084_361d0c2ff21e5ad0.png" group-title="Canais de Séries",TNT Series HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/443.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TNT Series FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138084_361d0c2ff21e5ad0.png" group-title="Canais de Séries",TNT Series FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/444.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Tooncast SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138114_3408f6cd2602c976.png" group-title="Infantis",Tooncast SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/445.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Tooncast HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138114_3408f6cd2602c976.png" group-title="Infantis",Tooncast HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/446.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TruTV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138148_15be60a449de65d7.png" group-title="Variedades",TruTV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/447.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TruTV HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138148_15be60a449de65d7.png" group-title="Variedades",TruTV HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/448.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TruTV FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569138148_15be60a449de65d7.png" group-title="Variedades",TruTV FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/449.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Camara SD" tvg-logo="-" group-title="Canais Abertos",TV Camara SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/450.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Brasil SD" tvg-logo="-" group-title="Canais Abertos",TV Brasil SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/451.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Aparecida SD" tvg-logo="-" group-title="Canais Abertos",TV Aparecida SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/452.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Diario SD" tvg-logo="-" group-title="Canais Abertos",TV Diario SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/453.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Guarulhos HD" tvg-logo="-" group-title="Canais Abertos",TV Guarulhos HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/454.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Climatempo SD" tvg-logo="-" group-title="Canais Abertos",TV Climatempo SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/455.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Escola SD" tvg-logo="-" group-title="Canais Abertos",TV Escola SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/456.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Ra Tim Bum SD" tvg-logo="-" group-title="Canais Abertos",TV Ra Tim Bum SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/457.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Justica SD" tvg-logo="-" group-title="Canais Abertos",TV Justica SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/458.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Senado SD" tvg-logo="-" group-title="Canais Abertos",TV Senado SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/459.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV Cultura SD" tvg-logo="-" group-title="Canais Abertos",TV Cultura SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/460.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Tv Gazeta SD" tvg-logo="-" group-title="Canais Abertos",Tv Gazeta SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/461.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Terra Viva SD" tvg-logo="-" group-title="Canais Abertos",Terra Viva SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/462.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="The History Channel SD" tvg-logo="-" group-title="Documentários",The History Channel SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/463.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="The History HD" tvg-logo="-" group-title="Documentários",The History HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/464.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="The History Channel HD" tvg-logo="-" group-title="Documentários",The History Channel HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/465.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="The History FullHD" tvg-logo="-" group-title="Documentários",The History FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/466.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Universal Channel SD" tvg-logo="-" group-title="Canais de Séries",Universal Channel SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/467.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Universal Channel HD" tvg-logo="-" group-title="Canais de Séries",Universal Channel HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/468.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Universal Channel FullHD" tvg-logo="-" group-title="Canais de Séries",Universal Channel FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/469.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Viva SD" tvg-logo="-" group-title="Canais Abertos",Viva SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/470.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Viva HD" tvg-logo="-" group-title="Canais Abertos",Viva HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/471.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Viva FullHD" tvg-logo="-" group-title="Canais Abertos",Viva FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/472.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="VH1 Mega Hits SD" tvg-logo="-" group-title="Entretenimento",VH1 Mega Hits SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/473.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="VH1 SD" tvg-logo="-" group-title="Entretenimento",VH1 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/474.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="VH1 HD" tvg-logo="-" group-title="Entretenimento",VH1 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/475.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="VH1 FullHD" tvg-logo="-" group-title="Entretenimento",VH1 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/476.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Warner Channel SD" tvg-logo="-" group-title="Canais de Séries",Warner Channel SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/477.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Warner Channel HD" tvg-logo="-" group-title="Canais de Séries",Warner Channel HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/478.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Warner Channel FullHD" tvg-logo="-" group-title="Canais de Séries",Warner Channel FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/479.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Wohoo SD" tvg-logo="-" group-title="Variedades",Wohoo SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/480.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Wohoo HD" tvg-logo="-" group-title="Variedades",Wohoo HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/481.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Wohoo FullHD" tvg-logo="-" group-title="Variedades",Wohoo FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/482.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Zoomoo SD" tvg-logo="-" group-title="Infantis",Zoomoo SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/483.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Baby TV SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569044110_d0c4ca0d50570009.png" group-title="Infantis",Baby TV SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/20.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Baby HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569044153_196f939a97b4046f.png" group-title="Infantis",Baby HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/21.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Arte 1 SD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043895_041613649cbe2418.png" group-title="Variedades",Arte 1 SD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/11.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Arte 1 HD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043961_1bb9e8e7156eb412.png" group-title="Variedades",Arte 1 HD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/12.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Arte 1 FullHD" tvg-logo="http://lista.clienteiptv.com:80/_tvlogo/1569043968_199ef680d872b496.png" group-title="Variedades",Arte 1 FullHD
+http://lista.clienteiptv.com:80/live/zoyp1q/rczy3b/13.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Vis a vis S03 E08" tvg-logo="-" group-title="Vis a Vis",Vis a vis S03 E08
+http://lista.clienteiptv.com:80/serie/1/zoyp1q/rczy3b/31.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="3 Pedidos" tvg-logo="-" group-title="-",3 Pedidos
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/13.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Carga" tvg-logo="-" group-title="-",A Carga
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/20.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Espiã Vermelha" tvg-logo="-" group-title="-",A Espiã Vermelha
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/5.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Inventora: À Procura de Sangue no Vale do Silício" tvg-logo="-" group-title="-",A Inventora: À Procura de Sangue no Vale do Silício
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/40.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Lenda de Golem" tvg-logo="-" group-title="-",A Lenda de Golem
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/19.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Maldição da Chorona" tvg-logo="-" group-title="-",A Maldição da Chorona
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/10.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Mata Negra" tvg-logo="-" group-title="-",A Mata Negra
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/32.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Moça da Limpeza" tvg-logo="-" group-title="-",A Moça da Limpeza
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/3.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Rebelião" tvg-logo="-" group-title="-",A Rebelião
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/17.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Reviravolta" tvg-logo="-" group-title="-",A Reviravolta
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/28.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Sereia - Lago Dos Mortos" tvg-logo="-" group-title="-",A Sereia - Lago Dos Mortos
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/16.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Vigilante" tvg-logo="-" group-title="-",A Vigilante
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/24.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Volta por Cima" tvg-logo="-" group-title="-",A Volta por Cima
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/27.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Última Missão" tvg-logo="-" group-title="-",A Última Missão
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/25.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Acusada" tvg-logo="-" group-title="-",Acusada
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/4.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Amor em Obras" tvg-logo="-" group-title="-",Amor em Obras
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/6.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Annabelle 3: De Volta Para Casa" tvg-logo="-" group-title="-",Annabelle 3: De Volta Para Casa
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/15.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Aqui em Casa Tudo Bem" tvg-logo="-" group-title="-",Aqui em Casa Tudo Bem
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/33.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Arizona" tvg-logo="-" group-title="-",Arizona
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/22.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="As Fantásticas Aventuras de Spirou e Fantasio" tvg-logo="-" group-title="-",As Fantásticas Aventuras de Spirou e Fantasio
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/7.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Atentado ao Hotel Taj Mahal" tvg-logo="-" group-title="-",Atentado ao Hotel Taj Mahal
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/1.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Atualização" tvg-logo="-" group-title="-",Atualização
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/26.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Barbie Dreamtopia: Festival da Alegria" tvg-logo="-" group-title="-",Barbie Dreamtopia: Festival da Alegria
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/31.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bem-vindos a Marwen" tvg-logo="-" group-title="-",Bem-vindos a Marwen
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/9.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Boi" tvg-logo="-" group-title="-",Boi
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/18.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Brightburn - Filho das Trevas" tvg-logo="-" group-title="-",Brightburn - Filho das Trevas
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/2.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Brincadeira Mortal" tvg-logo="-" group-title="-",Brincadeira Mortal
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/23.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Brinquedo Assassino" tvg-logo="-" group-title="-",Brinquedo Assassino
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/12.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Capitã Marvel" tvg-logo="-" group-title="-",Capitã Marvel
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/14.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Casal Improvável" tvg-logo="-" group-title="-",Casal Improvável
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/29.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Chorar de Rir" tvg-logo="-" group-title="-",Chorar de Rir
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/76.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Com Deus no Caminho" tvg-logo="-" group-title="-",Com Deus no Caminho
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/74.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Como Treinar o Seu Dragão 3" tvg-logo="-" group-title="-",Como Treinar o Seu Dragão 3
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/82.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Cortina de Fogo 2" tvg-logo="-" group-title="-",Cortina de Fogo 2
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/89.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Crimes Obscuros" tvg-logo="-" group-title="-",Crimes Obscuros
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/87.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Cães Estelares" tvg-logo="-" group-title="-",Cães Estelares
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/30.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Desce?" tvg-logo="-" group-title="-",Desce?
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/83.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Desculpe Te Incomodar" tvg-logo="-" group-title="-",Desculpe Te Incomodar
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/75.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Do Panamá ao Mundo: Roberto Durán" tvg-logo="-" group-title="-",Do Panamá ao Mundo: Roberto Durán
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/85.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Do Que os Homens Gostam" tvg-logo="-" group-title="-",Do Que os Homens Gostam
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/86.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Dumbo" tvg-logo="-" group-title="-",Dumbo
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/73.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Em Busca da Cerveja Perfeita" tvg-logo="-" group-title="-",Em Busca da Cerveja Perfeita
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/81.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Era Só Uma Brincadeira" tvg-logo="-" group-title="-",Era Só Uma Brincadeira
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/80.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Falcons em Jogo" tvg-logo="-" group-title="-",Falcons em Jogo
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/79.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Fantasias de Princesa" tvg-logo="-" group-title="-",Fantasias de Princesa
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/78.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Galinha Pintadinha 5" tvg-logo="-" group-title="-",Galinha Pintadinha 5
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/77.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Galinha Pintadinha 6" tvg-logo="-" group-title="-",Galinha Pintadinha 6
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/88.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Gelo em Chamas" tvg-logo="-" group-title="-",Gelo em Chamas
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/84.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Gloria Bell" tvg-logo="-" group-title="-",Gloria Bell
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/105.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Godzilla II: Rei dos Monstros" tvg-logo="-" group-title="-",Godzilla II: Rei dos Monstros
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/109.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Happy Hour - Verdades e Consequências" tvg-logo="-" group-title="-",Happy Hour - Verdades e Consequências
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/101.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Histórias Assustadoras para Contar no Escuro" tvg-logo="-" group-title="-",Histórias Assustadoras para Contar no Escuro
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/34.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Inimigo Desconhecido" tvg-logo="-" group-title="-",Inimigo Desconhecido
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/92.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Into the Dark: A Casa da Árvore" tvg-logo="-" group-title="-",Into the Dark: A Casa da Árvore
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/21.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Invencível: Caminho da Redenção" tvg-logo="-" group-title="-",Invencível: Caminho da Redenção
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/100.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="It: Capítulo Dois" tvg-logo="-" group-title="-",It: Capítulo Dois
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/96.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jesse James - O Roubo do Trem Negro" tvg-logo="-" group-title="-",Jesse James - O Roubo do Trem Negro
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/103.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="John Wick 3: Parabellum" tvg-logo="-" group-title="-",John Wick 3: Parabellum
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/102.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Johnny English 3.0" tvg-logo="-" group-title="-",Johnny English 3.0
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/93.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Juntos para Sempre" tvg-logo="-" group-title="-",Juntos para Sempre
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/91.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Karma: Aqui se Faz, Aqui se Paga" tvg-logo="-" group-title="-",Karma: Aqui se Faz, Aqui se Paga
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/104.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="LEGO DC: Batman - Assunto de Família" tvg-logo="-" group-title="-",LEGO DC: Batman - Assunto de Família
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/99.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="MIB: Homens de Preto - Internacional" tvg-logo="-" group-title="-",MIB: Homens de Preto - Internacional
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/97.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Marvel Rising: Coração de Ferro" tvg-logo="-" group-title="-",Marvel Rising: Coração de Ferro
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/107.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Minha Irmã Arrasa" tvg-logo="-" group-title="-",Minha Irmã Arrasa
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/94.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Neil Armstrong: A Verdadeira História" tvg-logo="-" group-title="-",Neil Armstrong: A Verdadeira História
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/108.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="No Coração do Ouro: O Escândalo da Seleção Americana de Ginastica" tvg-logo="-" group-title="-",No Coração do Ouro: O Escândalo da Seleção Americana de Ginastica
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/106.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="No Manches Frida 2: Paraíso Destruído" tvg-logo="-" group-title="-",No Manches Frida 2: Paraíso Destruído
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/95.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Nos Caminhos de Deus" tvg-logo="-" group-title="-",Nos Caminhos de Deus
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/48.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Nossa Vida com Cães" tvg-logo="-" group-title="-",Nossa Vida com Cães
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/55.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Não Olhe" tvg-logo="-" group-title="-",Não Olhe
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/90.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Não Vai Ter Golpe" tvg-logo="-" group-title="-",Não Vai Ter Golpe
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/98.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Chamado" tvg-logo="-" group-title="-",O Chamado
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/51.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Chamado 2" tvg-logo="-" group-title="-",O Chamado 2
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/47.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Genro Da Minha Vida" tvg-logo="-" group-title="-",O Genro Da Minha Vida
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/52.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Homem que Matou Don Quixote" tvg-logo="-" group-title="-",O Homem que Matou Don Quixote
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/42.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Outro Pai" tvg-logo="-" group-title="-",O Outro Pai
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/46.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Pequeno Órfão" tvg-logo="-" group-title="-",O Pequeno Órfão
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/37.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Rei Leão" tvg-logo="-" group-title="-",O Rei Leão
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/58.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Segredo de Nora" tvg-logo="-" group-title="-",O Segredo de Nora
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/54.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="O Último Homem Negro em San Francisco" tvg-logo="-" group-title="-",O Último Homem Negro em San Francisco
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/60.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Obsessão Secreta" tvg-logo="-" group-title="-",Obsessão Secreta
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/35.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Onde Está a Vovó?" tvg-logo="-" group-title="-",Onde Está a Vovó?
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/39.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Patrulha Canina - Super Filhotes" tvg-logo="-" group-title="-",Patrulha Canina - Super Filhotes
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/36.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Por Amor ou Por Dinheiro" tvg-logo="-" group-title="-",Por Amor ou Por Dinheiro
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/56.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Privacidade Hackeada" tvg-logo="-" group-title="-",Privacidade Hackeada
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/45.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Querido Menino" tvg-logo="-" group-title="-",Querido Menino
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/41.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Rastros do Além" tvg-logo="-" group-title="-",Rastros do Além
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/49.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Resgate Mortal" tvg-logo="-" group-title="-",Resgate Mortal
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/50.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Rota de Fuga 3: O Resgate" tvg-logo="-" group-title="-",Rota de Fuga 3: O Resgate
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/43.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Segredos e Despedidas" tvg-logo="-" group-title="-",Segredos e Despedidas
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/38.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Seis Vezes Confusão" tvg-logo="-" group-title="-",Seis Vezes Confusão
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/57.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Sem Dormir Até o Natal" tvg-logo="-" group-title="-",Sem Dormir Até o Natal
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/44.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Sequestrando Stella" tvg-logo="-" group-title="-",Sequestrando Stella
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/53.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Shaft" tvg-logo="-" group-title="-",Shaft
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/70.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Shazam!!" tvg-logo="-" group-title="-",Shazam!!
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/61.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Struggle: A Vida e a Arte de Szukalski" tvg-logo="-" group-title="-",Struggle: A Vida e a Arte de Szukalski
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/11.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Superação: O Milagre da Fé" tvg-logo="-" group-title="-",Superação: O Milagre da Fé
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/66.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Todas as Pequenas Coisas" tvg-logo="-" group-title="-",Todas as Pequenas Coisas
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/68.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Toy Story 4 (CAM)" tvg-logo="-" group-title="-",Toy Story 4 (CAM)
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/63.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Turma da Mônica: Laços" tvg-logo="-" group-title="-",Turma da Mônica: Laços
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/59.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Um Ladrão com Estilo" tvg-logo="-" group-title="-",Um Ladrão com Estilo
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/62.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Um Lugar Sombrio" tvg-logo="-" group-title="-",Um Lugar Sombrio
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/67.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Uma Criança Como Jake" tvg-logo="-" group-title="-",Uma Criança Como Jake
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/72.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Uma Prece Antes do Amanhecer" tvg-logo="-" group-title="-",Uma Prece Antes do Amanhecer
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/64.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Velozes & Furiosos: Hobbs & Shaw (CAM)" tvg-logo="-" group-title="-",Velozes & Furiosos: Hobbs & Shaw (CAM)
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/71.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="X-Men: Fênix Negra" tvg-logo="-" group-title="-",X-Men: Fênix Negra
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/65.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Zona Desmilitarizada" tvg-logo="-" group-title="-",Zona Desmilitarizada
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/69.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="À Queima-Roupa" tvg-logo="-" group-title="-",À Queima-Roupa
+http://lista.clienteiptv.com:80/movie/zoyp1q/rczy3b/8.mp4
